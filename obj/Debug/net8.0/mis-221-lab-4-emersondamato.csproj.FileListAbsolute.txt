@@ -1,0 +1,15 @@
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.AssemblyInfoInputs.cache
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.AssemblyInfo.cs
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.csproj.CoreCompileInputs.cache
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.sourcelink.json
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/bin/Debug/net8.0/mis-221-lab-4-emersondamato
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/bin/Debug/net8.0/mis-221-lab-4-emersondamato.deps.json
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/bin/Debug/net8.0/mis-221-lab-4-emersondamato.runtimeconfig.json
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/bin/Debug/net8.0/mis-221-lab-4-emersondamato.dll
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/bin/Debug/net8.0/mis-221-lab-4-emersondamato.pdb
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.dll
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/refint/mis-221-lab-4-emersondamato.dll
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.pdb
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/mis-221-lab-4-emersondamato.genruntimeconfig.cache
+/Users/emersondamato/221/mis-221-lab-4-emersondamato/obj/Debug/net8.0/ref/mis-221-lab-4-emersondamato.dll
